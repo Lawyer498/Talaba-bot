@@ -1,0 +1,8 @@
+{
+  "name": "Remix Talaba Slide Bot - Akademik Yordamchi \u0026 Mini App",
+  "description": "O\u0027zbekistonning 35 ta OTM ta\u0027lim yo\u0027nalishi bo\u0027yicha ilmiy maqola, esse, kurs ishi, prezentatsiya, mustaqil ish va tezis tayyorlovchi Telegram Bot va Mini App tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
